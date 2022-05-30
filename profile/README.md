@@ -1,6 +1,6 @@
 <html>
     <body>
-        <h1>Lobby-Hoes</h1>
+        <h1>Lobby Hoe Nerds</h1>
         <p>
         Willkommen auf der Github Startseite von den Lobby Hoe Nerds. </br>
         Erstmal vorne weg: <b>wer noch keine <a href="https://open.spotify.com/show/6UUIXmp1V0fK4ZpK7vzAbQ" target="_blank">5 Sterne</a> gegeben hat ist wack. </b></br></br>
