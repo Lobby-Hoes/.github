@@ -1,7 +1,6 @@
 <html>
     <body>
         <h1>Lobby Hoe Nerds</h1>
-        <a href="https://github.com/Lobby-Hoes"><img alt="Uptime Robot status" src="https://img.shields.io/uptimerobot/status/m791957142-cba08a4b6bf9bc55b9b0d41e?style=for-the-badge">
         <img alt="Total stars of this organization" src="https://img.shields.io/github/stars/Lobby-Hoes?style=for-the-badge"></a>
         <p>
         Willkommen auf der Github Startseite von den Lobby Hoe Nerds. </br>
